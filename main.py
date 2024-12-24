@@ -120,3 +120,8 @@ from time import clock_settime
 # process_data()
 
 print('Salom')
+print('Salom')
+print('Salom')
+print('Salom')
+print('Salom')
+print('Salom')
